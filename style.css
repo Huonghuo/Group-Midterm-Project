@@ -216,11 +216,12 @@ div:hover span:last-child {
    line-height:1.1;
    }
 /*--Vehicles*/
-.Vehicles{
+.vehicles{
 	margin-top:30px;
+}
 .vehicles h2{
 	text-align:center;
-	background-color:##9fd7f9;;
+	background-color:#6ec2f7;
     font-size:32px ;
    line-height:1.1;
    color: White;
