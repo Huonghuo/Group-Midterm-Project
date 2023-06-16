@@ -156,6 +156,7 @@ div:hover span:last-child {
    padding-top:280px;
    padding-right:600px;
    text-align:left;
+	   margin-bottom:20px;
    }
 .home-text {
 	background-color:rgba(0,0,0,0.4);
@@ -217,7 +218,7 @@ div:hover span:last-child {
    }
 /*--Vehicles*/
 .vehicles{
-	margin-top:30px;
+	margin-top:40px;
 }
 .vehicles h2{
 	text-align:center;
