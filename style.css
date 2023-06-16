@@ -24,6 +24,7 @@
 	color: var(text-color);
 	background-image: url("HA LONG ẢNH BÌA.jpg") ;
 	background-repeat: no-repeat;
+	width:100%;
 }
 /*--Header*/
   header{
